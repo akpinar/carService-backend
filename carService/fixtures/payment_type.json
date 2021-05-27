@@ -1,0 +1,30 @@
+[
+    {
+        "model": "carService.PaymentType",
+        "pk": 1,
+        "fields": {
+            "name": "Kredi Kartı"
+        }
+    },
+    {
+        "model": "carService.PaymentType",
+        "pk": 2,
+        "fields": {
+            "name": "Nakit"
+        }
+    },
+    {
+        "model": "carService.PaymentType",
+        "pk": 3,
+        "fields": {
+            "name": "Havale/EFT"
+        }
+    },
+    {
+        "model": "carService.PaymentType",
+        "pk": 4,
+        "fields": {
+            "name": "İndirim"
+        }
+    }
+]

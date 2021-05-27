@@ -1,0 +1,23 @@
+[
+    {
+        "model": "carService.PaymentSituation",
+        "pk": 1,
+        "fields": {
+            "name": "Ödendi"
+        }
+    },
+    {
+        "model": "carService.PaymentSituation",
+        "pk": 2,
+        "fields": {
+            "name": "Kısmi Ödendi"
+        }
+    },
+    {
+        "model": "carService.PaymentSituation",
+        "pk": 3,
+        "fields": {
+            "name": "Ödenmedi"
+        }
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "model": "carService.Situation",
+        "pk": 1,
+        "fields": {
+            "name": "İşlem Bekleniyor"
+        }
+    },
+    {
+        "model": "carService.Situation",
+        "pk": 2,
+        "fields": {
+            "name": "İşlemde"
+        }
+    },
+    {
+        "model": "carService.Situation",
+        "pk": 3,
+        "fields": {
+            "name": "Parça Tedarik Ediliyor"
+        }
+    },
+    {
+        "model": "carService.Situation",
+        "pk": 4,
+        "fields": {
+            "name": "Tamamlandı"
+        }
+    },
+    {
+        "model": "carService.Situation",
+        "pk": 5,
+        "fields": {
+            "name": "Müşteri Onayı Alındı"
+        }
+    },
+    {
+        "model": "carService.Situation",
+        "pk": 6,
+        "fields": {
+            "name": "İptal Edildi"
+        }
+    },
+    {
+        "model": "carService.Situation",
+        "pk": 7,
+        "fields": {
+            "name": "Müşteri Onayı Bekleniyor"
+        }
+    },
+    {
+        "model": "carService.Situation",
+        "pk": 8,
+        "fields": {
+            "name": "Arıza Tespiti Bekleniyor"
+        }
+    },
+    {
+        "model": "carService.Situation",
+        "pk": 9,
+        "fields": {
+            "name": "Teslim Edildi"
+        }
+    }
+]

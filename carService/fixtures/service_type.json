@@ -1,0 +1,23 @@
+[
+    {
+        "model": "carService.ServiceType",
+        "pk": 1,
+        "fields": {
+            "name": "Tamir"
+        }
+    },
+    {
+        "model": "carService.ServiceType",
+        "pk": 2,
+        "fields": {
+            "name": "Revizyon"
+        }
+    },
+    {
+        "model": "carService.ServiceType",
+        "pk": 3,
+        "fields": {
+            "name": "Bakım"
+        }
+    }
+]

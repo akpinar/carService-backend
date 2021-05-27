@@ -1,0 +1,42 @@
+[
+    {
+        "model": "carService.Camera",
+        "pk": 1,
+        "fields": {
+            "name": "Alt Merkez 1",
+            "url": "https://rtsp.me/embed/6zyGzZ6G/"
+        }
+    },
+    {
+        "model": "carService.Camera",
+        "pk": 2,
+        "fields": {
+            "name": "İç Sağ 2",
+            "url": "https://rtsp.me/embed/hh5SAdNy/"
+        }
+    },
+    {
+        "model": "carService.Camera",
+        "pk": 3,
+        "fields": {
+            "name": "İç Sol 1",
+            "url": "https://rtsp.me/embed/esraiBid/"
+        }
+    },
+    {
+        "model": "carService.Camera",
+        "pk": 4,
+        "fields": {
+            "name": "Dış Sağ 2",
+            "url": "https://rtsp.me/embed/4NQEn7Ds/"
+        }
+    },
+    {
+        "model": "carService.Camera",
+        "pk": 5,
+        "fields": {
+            "name": "Dış Sol 1",
+            "url": "https://rtsp.me/embed/Y4Nn74ik/"
+        }
+    }
+]
